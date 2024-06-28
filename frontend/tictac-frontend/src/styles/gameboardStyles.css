@@ -1,0 +1,25 @@
+.box {
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(69, 101, 104);
+    box-shadow: 1px 2px 3px black;
+    color: white;
+}
+
+.box:hover {
+    background-color: rgb(238, 217, 178);
+    box-shadow: 1px 2px 3px orange;
+    cursor: pointer;
+    color: black;
+}
+
+.three-by-three {
+    display: grid;
+    gap: 4px;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.gameboardtitle {
+    margin-bottom: 30px;
+}
