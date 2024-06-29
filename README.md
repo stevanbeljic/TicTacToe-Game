@@ -19,4 +19,4 @@ If you selected ``Create Game``, a join code (located at the bottom of your scre
 ### Competencies Demonstrated
 - Real-time communication
 - RESTful API Design
-- UI/UX
+- UI/UX design
